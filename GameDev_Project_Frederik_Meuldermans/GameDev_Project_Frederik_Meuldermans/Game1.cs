@@ -1,4 +1,5 @@
-﻿using GameDev_Project_Frederik_Meuldermans.Content.Classes;
+﻿using GameDev_Project_Frederik_Meuldermans.Content;
+using GameDev_Project_Frederik_Meuldermans.Content.Classes;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
