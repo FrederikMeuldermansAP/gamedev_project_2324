@@ -46,7 +46,7 @@ namespace GameDev_Project_Frederik_Meuldermans
                 Exit();
 
             // TODO: Add your update logic here
-            hero.Update();
+            hero.Update(gameTime);
             base.Update(gameTime);
         }
 
