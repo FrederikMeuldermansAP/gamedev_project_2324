@@ -1,5 +1,6 @@
 ﻿using GameDev_Project_Frederik_Meuldermans.Content;
 using GameDev_Project_Frederik_Meuldermans.Content.Classes;
+using GameDev_Project_Frederik_Meuldermans.Input;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
@@ -28,7 +29,7 @@ namespace GameDev_Project_Frederik_Meuldermans
             // TODO: Add your initialization logic here
            
             base.Initialize();
-            hero = new DwarfHero(_heroTexture);
+            hero = new DwarfHero(_heroTexture, new KeyBoardReader());
         }
 
         protected override void LoadContent()
@@ -60,5 +61,8 @@ namespace GameDev_Project_Frederik_Meuldermans
 
             base.Draw(gameTime);
         }
+
+        
+
     }
 }
