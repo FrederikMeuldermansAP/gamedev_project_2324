@@ -39,6 +39,7 @@ namespace GameDev_Project_Frederik_Meuldermans
             // TODO: use this.Content to load your game content here
             _heroTexture = Content.Load<Texture2D>("DwarfHero_Sprite_Sheet");
 
+
         }
 
         protected override void Update(GameTime gameTime)
