@@ -39,7 +39,7 @@ namespace GameDev_Project_Frederik_Meuldermans.Content.Classes
             this.animatie.AddFrame(new AnimationFrame(new Rectangle(320, 32, 64, 32)));
             this.animatie.AddFrame(new AnimationFrame(new Rectangle(384, 32, 64, 32)));
             this.animatie.AddFrame(new AnimationFrame(new Rectangle(448, 32, 64, 32)));
-            Position = new Vector2(0, 0);
+            Position = new Vector2(0, 430);
             Speed = new Vector2(1, 1);
             versnelling = new Vector2(0.1f, 0.1f);
             movementManager = new MovementManager();

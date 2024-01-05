@@ -1,4 +1,5 @@
-﻿using GameDev_Project_Frederik_Meuldermans.Input;
+﻿using GameDev_Project_Frederik_Meuldermans.Animation;
+using GameDev_Project_Frederik_Meuldermans.Input;
 using Microsoft.Xna.Framework;
 using System;
 using System.Collections.Generic;
