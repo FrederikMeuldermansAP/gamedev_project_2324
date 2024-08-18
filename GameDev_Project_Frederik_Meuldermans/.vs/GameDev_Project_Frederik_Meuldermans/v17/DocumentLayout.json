@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\gamedev_project_frederik_meuldermans\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|solutionrelative:gamedev_project_frederik_meuldermans\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\gamedev_project_frederik_meuldermans\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|solutionrelative:gamedev_project_frederik_meuldermans\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\gamedev_project_frederik_meuldermans\\content\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|solutionrelative:gamedev_project_frederik_meuldermans\\content\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|c:\\users\\fmeul\\documents\\school\\ap\\gamedev\\project\\gamedev_project_2324\\gamedev_project_frederik_meuldermans\\gamedev_project_frederik_meuldermans\\content\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|solutionrelative:gamedev_project_frederik_meuldermans\\content\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\gamedev_project_frederik_meuldermans\\content\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|solutionrelative:gamedev_project_frederik_meuldermans\\content\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\gamedev_project_frederik_meuldermans\\content\\levels\\level1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|solutionrelative:gamedev_project_frederik_meuldermans\\content\\levels\\level1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\gamedev_project_frederik_meuldermans\\content\\blockfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|solutionrelative:gamedev_project_frederik_meuldermans\\content\\blockfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\gamedev_project_frederik_meuldermans\\interfaces\\ilevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|solutionrelative:gamedev_project_frederik_meuldermans\\interfaces\\ilevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\gamedev_project_frederik_meuldermans\\content\\dwarfhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|solutionrelative:gamedev_project_frederik_meuldermans\\content\\dwarfhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\gamedev_project_frederik_meuldermans\\interfaces\\igameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|solutionrelative:gamedev_project_frederik_meuldermans\\interfaces\\igameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\gamedev_project_frederik_meuldermans\\content\\dwarf miner sprite sheet.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|solutionrelative:gamedev_project_frederik_meuldermans\\content\\dwarf miner sprite sheet.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\gamedev_project_frederik_meuldermans\\interfaces\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|solutionrelative:gamedev_project_frederik_meuldermans\\interfaces\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\gamedev_project_frederik_meuldermans\\input\\movementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|solutionrelative:gamedev_project_frederik_meuldermans\\input\\movementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\gamedev_project_frederik_meuldermans\\input\\keyboardreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|solutionrelative:gamedev_project_frederik_meuldermans\\input\\keyboardreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\gamedev_project_frederik_meuldermans\\input\\iinputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|solutionrelative:gamedev_project_frederik_meuldermans\\input\\iinputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\gamedev_project_frederik_meuldermans\\animation\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|solutionrelative:gamedev_project_frederik_meuldermans\\animation\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\gamedev_project_frederik_meuldermans\\input\\mousereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B702F3-DDAE-46CD-9145-1FE22D4EAB3C}|GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans.csproj|solutionrelative:gamedev_project_frederik_meuldermans\\input\\mousereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Content\\Level.cs",
+              "RelativeDocumentMoniker": "GameDev_Project_Frederik_Meuldermans\\Content\\Level.cs",
+              "ToolTip": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Content\\Level.cs",
+              "RelativeToolTip": "GameDev_Project_Frederik_Meuldermans\\Content\\Level.cs",
+              "ViewState": "AQIAABoAAAAAAQAAAAAAwC4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:00:12.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Level1.cs",
+              "DocumentMoniker": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Content\\Levels\\Level1.cs",
+              "RelativeDocumentMoniker": "GameDev_Project_Frederik_Meuldermans\\Content\\Levels\\Level1.cs",
+              "ToolTip": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Content\\Levels\\Level1.cs",
+              "RelativeToolTip": "GameDev_Project_Frederik_Meuldermans\\Content\\Levels\\Level1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:25:45.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Content\\Block.cs",
+              "RelativeDocumentMoniker": "GameDev_Project_Frederik_Meuldermans\\Content\\Block.cs",
+              "ToolTip": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Content\\Block.cs",
+              "RelativeToolTip": "GameDev_Project_Frederik_Meuldermans\\Content\\Block.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:16:03.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlockFactory.cs",
+              "DocumentMoniker": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Content\\BlockFactory.cs",
+              "RelativeDocumentMoniker": "GameDev_Project_Frederik_Meuldermans\\Content\\BlockFactory.cs",
+              "ToolTip": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Content\\BlockFactory.cs",
+              "RelativeToolTip": "GameDev_Project_Frederik_Meuldermans\\Content\\BlockFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:13:56.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ILevel.cs",
+              "DocumentMoniker": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Interfaces\\ILevel.cs",
+              "RelativeDocumentMoniker": "GameDev_Project_Frederik_Meuldermans\\Interfaces\\ILevel.cs",
+              "ToolTip": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Interfaces\\ILevel.cs",
+              "RelativeToolTip": "GameDev_Project_Frederik_Meuldermans\\Interfaces\\ILevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T18:56:03.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DwarfHero.cs",
+              "DocumentMoniker": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Content\\DwarfHero.cs",
+              "RelativeDocumentMoniker": "GameDev_Project_Frederik_Meuldermans\\Content\\DwarfHero.cs",
+              "ToolTip": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Content\\DwarfHero.cs",
+              "RelativeToolTip": "GameDev_Project_Frederik_Meuldermans\\Content\\DwarfHero.cs",
+              "ViewState": "AQIAAB4AAAAAmpmZmZkZwG0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-28T10:51:12.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovementManager.cs",
+              "DocumentMoniker": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Input\\MovementManager.cs",
+              "RelativeDocumentMoniker": "GameDev_Project_Frederik_Meuldermans\\Input\\MovementManager.cs",
+              "ToolTip": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Input\\MovementManager.cs",
+              "RelativeToolTip": "GameDev_Project_Frederik_Meuldermans\\Input\\MovementManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T10:16:37.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IInputReader.cs",
+              "DocumentMoniker": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Input\\IInputReader.cs",
+              "RelativeDocumentMoniker": "GameDev_Project_Frederik_Meuldermans\\Input\\IInputReader.cs",
+              "ToolTip": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Input\\IInputReader.cs",
+              "RelativeToolTip": "GameDev_Project_Frederik_Meuldermans\\Input\\IInputReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T09:40:18.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGameObject.cs",
+              "DocumentMoniker": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Interfaces\\IGameObject.cs",
+              "RelativeDocumentMoniker": "GameDev_Project_Frederik_Meuldermans\\Interfaces\\IGameObject.cs",
+              "ToolTip": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Interfaces\\IGameObject.cs",
+              "RelativeToolTip": "GameDev_Project_Frederik_Meuldermans\\Interfaces\\IGameObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-28T11:15:45.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Game1.cs",
+              "RelativeDocumentMoniker": "GameDev_Project_Frederik_Meuldermans\\Game1.cs",
+              "ToolTip": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Game1.cs",
+              "RelativeToolTip": "GameDev_Project_Frederik_Meuldermans\\Game1.cs",
+              "ViewState": "AQIAACYAAAAANDMzMzMXwDQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-28T11:15:28.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Program.cs",
+              "RelativeDocumentMoniker": "GameDev_Project_Frederik_Meuldermans\\Program.cs",
+              "ToolTip": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Program.cs",
+              "RelativeToolTip": "GameDev_Project_Frederik_Meuldermans\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-04T10:31:10.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Content\\LevelManager.cs",
+              "RelativeDocumentMoniker": "GameDev_Project_Frederik_Meuldermans\\Content\\LevelManager.cs",
+              "ToolTip": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Content\\LevelManager.cs",
+              "RelativeToolTip": "GameDev_Project_Frederik_Meuldermans\\Content\\LevelManager.cs",
+              "ViewState": "AQIAAAoAAACAZmZmZmY6wCQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T18:54:57.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMovable.cs",
+              "DocumentMoniker": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Interfaces\\IMovable.cs",
+              "RelativeDocumentMoniker": "GameDev_Project_Frederik_Meuldermans\\Interfaces\\IMovable.cs",
+              "ToolTip": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Interfaces\\IMovable.cs",
+              "RelativeToolTip": "GameDev_Project_Frederik_Meuldermans\\Interfaces\\IMovable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T10:18:03.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dwarf Miner Sprite Sheet.png",
+              "DocumentMoniker": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Content\\Dwarf Miner Sprite Sheet.png",
+              "RelativeDocumentMoniker": "GameDev_Project_Frederik_Meuldermans\\Content\\Dwarf Miner Sprite Sheet.png",
+              "ToolTip": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Content\\Dwarf Miner Sprite Sheet.png",
+              "RelativeToolTip": "GameDev_Project_Frederik_Meuldermans\\Content\\Dwarf Miner Sprite Sheet.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-15T20:19:36.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KeyBoardReader.cs",
+              "DocumentMoniker": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Input\\KeyBoardReader.cs",
+              "RelativeDocumentMoniker": "GameDev_Project_Frederik_Meuldermans\\Input\\KeyBoardReader.cs",
+              "ToolTip": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Input\\KeyBoardReader.cs",
+              "RelativeToolTip": "GameDev_Project_Frederik_Meuldermans\\Input\\KeyBoardReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T09:38:09.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Animation.cs",
+              "DocumentMoniker": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Animation\\Animation.cs",
+              "RelativeDocumentMoniker": "GameDev_Project_Frederik_Meuldermans\\Animation\\Animation.cs",
+              "ToolTip": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Animation\\Animation.cs",
+              "RelativeToolTip": "GameDev_Project_Frederik_Meuldermans\\Animation\\Animation.cs",
+              "ViewState": "AQIAAA8AAAAAZmZmZmYSwB8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-28T10:30:40.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MouseReader.cs",
+              "DocumentMoniker": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Input\\MouseReader.cs",
+              "RelativeDocumentMoniker": "GameDev_Project_Frederik_Meuldermans\\Input\\MouseReader.cs",
+              "ToolTip": "C:\\Users\\fmeul\\Documents\\School\\AP\\Gamedev\\Project\\gamedev_project_2324\\GameDev_Project_Frederik_Meuldermans\\GameDev_Project_Frederik_Meuldermans\\Input\\MouseReader.cs",
+              "RelativeToolTip": "GameDev_Project_Frederik_Meuldermans\\Input\\MouseReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T10:03:43.167Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

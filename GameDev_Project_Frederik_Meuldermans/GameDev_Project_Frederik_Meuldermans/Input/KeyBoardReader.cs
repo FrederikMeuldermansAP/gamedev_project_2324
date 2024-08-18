@@ -11,6 +11,7 @@ namespace GameDev_Project_Frederik_Meuldermans.Input
     internal class KeyBoardReader : IInputReader
     {
         public bool IsDestinationInput => false;
+        KeyboardState oldKybrdState;
         public Vector2 ReadInput()
         {
             var direction = Vector2.Zero;
@@ -23,8 +24,13 @@ namespace GameDev_Project_Frederik_Meuldermans.Input
             else if (kybrdState.IsKeyDown(Keys.Right))
             {
                 direction = new Vector2(1, 0);
+            } else if (kybrdState.IsKeyUp(Keys.Space) && oldKybrdState.IsKeyDown(Keys.Space))
+            {
+                direction = new Vector2(0, -1);
             }
+            oldKybrdState = kybrdState;
             return direction;
+
         }
     }
 }

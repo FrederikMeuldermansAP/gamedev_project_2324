@@ -27,6 +27,11 @@ namespace GameDev_Project_Frederik_Meuldermans.Animation
             CurrentFrame = frames[0];
         }
 
+        public void RemoveFrames()
+        {
+            frames.Clear();
+        }
+
         public void Update(GameTime gameTime)
         {
             CurrentFrame = frames[counter];

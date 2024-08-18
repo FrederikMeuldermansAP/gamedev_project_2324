@@ -17,6 +17,8 @@ namespace GameDev_Project_Frederik_Meuldermans
 
         private DwarfHero hero;
 
+        private LevelManager levelManager;
+
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
@@ -30,6 +32,7 @@ namespace GameDev_Project_Frederik_Meuldermans
            
             base.Initialize();
             hero = new DwarfHero(_heroTexture, new KeyBoardReader());
+            levelManager = new LevelManager(GraphicsDevice);
         }
 
         protected override void LoadContent()
@@ -58,6 +61,7 @@ namespace GameDev_Project_Frederik_Meuldermans
             _spriteBatch.Begin();
             // TODO: Add your drawing code here
             hero.Draw(_spriteBatch);
+            levelManager.DrawLevel(1, _spriteBatch);
             _spriteBatch.End();
 
             base.Draw(gameTime);

@@ -10,6 +10,7 @@ namespace GameDev_Project_Frederik_Meuldermans.Interfaces
 {
     internal interface IGameObject
     {
+        public Rectangle BoundingBox { get; }
         void Update(GameTime gameTime);
         void Draw(SpriteBatch spriteBatch);
     }

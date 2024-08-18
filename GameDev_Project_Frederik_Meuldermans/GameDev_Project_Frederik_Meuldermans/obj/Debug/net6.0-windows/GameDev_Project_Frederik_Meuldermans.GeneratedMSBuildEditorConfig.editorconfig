@@ -15,3 +15,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GameDev_Project_Frederik_Meuldermans
 build_property.ProjectDir = C:\Users\fmeul\Documents\School\AP\Gamedev\Project\gamedev_project_2324\GameDev_Project_Frederik_Meuldermans\GameDev_Project_Frederik_Meuldermans\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
